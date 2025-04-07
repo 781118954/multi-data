@@ -1,0 +1,1 @@
+The KOA and solution files are related to the Kepler swarm intelligence optimization algorithm. The base learner files are for parameter tuning of six types of base learners. The meta-learner file is for combination optimization to determine the final model construction.
